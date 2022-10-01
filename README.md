@@ -4,3 +4,5 @@
  
 <img src="https://github-readme-stats.vercel.app/api?username=mamesiba0&show_icons=true&theme=react&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamesiba0&layout=compact&theme=react">
+
+<img src="https://discord.c99.nl/widget/theme-1/629882176695042049.png">
