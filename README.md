@@ -1,4 +1,4 @@
-### C#とJavaとC++を勉強してる学生です。使えないものを作ります。
+### C#とJavaとC++を勉強してる学生です。使えないものを作ります。基本プライベートレポジトリです
 ## 開発環境
 ### Intelij IDEA, Visual Studio Code, JetBrains Rider, Visual Studio
  
