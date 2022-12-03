@@ -1,6 +1,6 @@
-### C#とJavaとC++を勉強してる学生です。使えないものを作ります。基本プライベートレポジトリです
-## 開発環境
-### Intelij IDEA, Visual Studio Code, JetBrains Rider, Visual Studio
+### C#とJavaとC++を勉強してる学生です。基本プライベートレポジトリです。
+## コーディング環境
+### Intelij IDEA, JetBrains Rider, Visual Studio, Sublime Text
  
 <img src="https://github-readme-stats.vercel.app/api?username=mames1dev&show_icons=true&theme=react&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mames1dev&layout=compact&theme=react">
