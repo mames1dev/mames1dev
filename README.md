@@ -1,6 +1,6 @@
 ## **Hello World!**
 ### What's me?
-I am a Programmer. I develop applications primarily using **Java** and **C#**. I am currently focusing on developing applications to the osu community.
+I am a Programmer. I develop applications primarily using **Java** and **C#**. I am currently focusing on developing applications to the osu community. I specialize in the back end.
 ### Current Task
 - [x] Mamestagram Bot
 - [x] Maintenance of osu private server
