@@ -1,9 +1,9 @@
 ## **Hello World!**
 ### What's me?
-I am a Student Programmer. I develop applications primarily using **Java** and **C#** and **Python**. I am currently focusing on developing applications to the osu community. I specialize in the back end.
+I develop a lot of software related to osu! Specialized in C#, Java and Python.
 ### Current Task
 - [x] Mamestagram Bot
-- [x] Maintenance of osu private server
+- [x] Maintenance of osu! private server
 ### Tools
 - **Visual Studio** (Make C# Software)
 - **JetBrains IDE** (Make Java, C#, Python Software)
