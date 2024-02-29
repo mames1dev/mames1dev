@@ -28,5 +28,3 @@ bancho.pyの魔改造サーバー、MamesServerの開発やDiscord Botを開発�
 I use it to develop bancho.py modification server, MamesServer, and to develop Discord Bot.
 ## 開発ステータス / My development status
 ![mames1's GitHub stats](https://github-readme-stats.vercel.app/api?username=mames1dev&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
