@@ -26,7 +26,7 @@ I use it when I develop some software in C# or when I rewrite Rust to rework Mam
 bancho.pyの魔改造サーバー、MamesServerの開発やDiscord Botを開発するために使用しています。
 
 I use it to develop bancho.py modification server, MamesServer, and to develop Discord Bot.
-## My development status
+## 開発ステータス / My development status
 ![mames1's GitHub stats](https://github-readme-stats.vercel.app/api?username=mames1dev&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
