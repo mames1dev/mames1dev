@@ -15,7 +15,7 @@ Donations can be made [here](https://ko-fi.com/mames1)!
 |Mamestagram Bot|Java|Private|Maintenance|
 |MamesServer|Python|Private|Developing|
 |Mamestagram Website|JavaScript|[Public](https://github.com/Mamestagram/Mamestagram-WebSite)|Developing|
-|Garushisu Patcher|C#|[Public](https://github.com/Mamestagram/Garushisu-Patcher)|Done!|
+|Garushisu Patcher|C#|[Public](https://github.com/Mamestagram/Garushisu-Patcher-v2/releases/tag/patcher)|Done!|
 ## 主なツール / Tools
 ### Visual Studio / Visual Studio Code
 C#で何かソフトウェアを開発するときや、MamestagramのPPのリワークを行うためにRustを書き換えるときに使用しています。
