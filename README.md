@@ -2,7 +2,7 @@
 ## 自己紹介
 ### osu!に関するソフトウェアをC#やJava、Pythonで開発している大学生です。
 
-[Mamestagram](https://github.com/Mamestagram)では主にバックエンドのソフトウェアを開発しており、たまに[Web](https://web.mamesosu.net/home)のデザインを手伝ったりもしてます。
+日本で最大規模のosu!プライベートサーバー、[Mamestagram](https://github.com/Mamestagram)では主にバックエンドのソフトウェアを開発しており、[Web](https://web.mamesosu.net/home)のデザインを手伝ったりもしてます。
 
 寄付は[こちら](https://ko-fi.com/mames1)からお願いします！
 ## What's me?
