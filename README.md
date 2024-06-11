@@ -2,7 +2,7 @@
 ## 自己紹介
 ### osu!に関するソフトウェアをC#やJava、Pythonで開発している大学生です。
 
-日本で最大規模のosu!プライベートサーバー、[Mamestagram](https://github.com/Mamestagram)では主にバックエンドのソフトウェアを開発しており、[Web](https://web.mamesosu.net/home)のデザインを手伝ったりもしてます。
+日本で最大規模のosu!プライベートサーバー、[Mamestagram](https://github.com/Mamestagram) のサーバーソフトウェアを開発してます。
 
 寄付は[こちら](https://ko-fi.com/mames1)からお願いします！
 ## What's me?
@@ -16,15 +16,3 @@ Donations can be made [here](https://ko-fi.com/mames1)!
 |MamesServer|Python|Private|Developing|
 |Mamestagram Website|JavaScript|[Public](https://github.com/Mamestagram/Mamestagram-WebSite)|Developing|
 |Garushisu Patcher|C#|[Public](https://github.com/Mamestagram/Garushisu-Patcher-v2/releases/tag/patcher)|Done!|
-## 主なツール / Tools
-### Visual Studio / Visual Studio Code
-C#で何かソフトウェアを開発するときや、MamestagramのPPのリワークを行うためにRustを書き換えるときに使用しています。
-
-I use it when I develop some software in C# or when I rewrite Rust to rework Mamestagram's PP.
-
-### Pycharm / Intellij IDEA
-bancho.pyの魔改造サーバー、MamesServerの開発やDiscord Botを開発するために使用しています。
-
-I use it to develop bancho.py modification server, MamesServer, and to develop Discord Bot.
-## 開発ステータス / My development status
-![mames1's GitHub stats](https://github-readme-stats.vercel.app/api?username=mames1dev&show_icons=true&theme=transparent)
