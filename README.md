@@ -1,3 +1,5 @@
+<hr>
+
 <h2 align="center">
 ❤️ Welcome to My profile!
 </h2>
