@@ -21,7 +21,7 @@
 ## 2. My current development tasks
 ---
 ### 🚀 Development of an osu! private server
-* I offer unique features in [Mamestagram](https://github.com/Mamestagram), which are not available on other private servers, based on <a href = "https://github.com/osuAkatsuki/bancho.py">bancho.py</a>—completely free!
+* I offer unique features in [Mamestagram](https://github.com/Mamestagram), which are not available on other private servers, based on <a href = "https://github.com/osuAkatsuki/bancho.py">bancho.py</a>.
 <p align="left">
   <img src="https://github.com/mames1dev/mames1dev/blob/main/sc.png" width="600" />
 </p>
